@@ -64,18 +64,6 @@ This project benchmarks multiple classifiers on a multi‑class **Landsat** data
 
 > **Note:** ROC–AUC evaluates both positive and negative classes; PRC–AP is more informative for minority class detection.
 
----
-
-## 📈 Results (Screenshots)
-
-**Advanced Models**
-![Advanced models metrics](/mnt/data/3114e0d6-49dd-4b0a-90a7-bd861abb35de.png)
-
-**All Baselines (AUC & AP)**
-![Baselines metrics AUC/AP](/mnt/data/bd6519da-183e-483a-b7b2-d3acd3757d87.png)
-
-**Accuracy & Weighted‑F1 (Baselines)**
-![Baselines accuracy & F1](/mnt/data/c716ec32-71f6-42e1-8a54-3f070777ab49.png)
 
 ---
 
