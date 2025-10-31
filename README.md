@@ -1,4 +1,4 @@
-# DA5401-Assignment7-MM22B016
+
 # 🛰️ Satellite Land‑Cover Classification (Multiclass ROC–PRC Analysis)
 
 ## 🧩 Overview
@@ -111,3 +111,4 @@ The **K‑Nearest Neighbors (KNN)** model is the **most balanced and practically
 **Conclusion:** While both **SVC** and **KNN** perform exceptionally well, **KNN** provides a slightly better equilibrium between precision, recall, and interpretability — making it the preferred model for this **multi‑class land‑cover classification** task.
 
 ---
+MM22B016
